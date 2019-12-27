@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22512.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDriven.Code", "DataDriven.Code\DataDriven.Code.csproj", "{BB7E8BC7-F82C-4BA2-A990-938DB6ECD4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDriven.UnitTests", "DataDriven.UnitTests\DataDriven.UnitTests.csproj", "{B36E5387-B7DC-4DD4-9C46-249EF017074D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7E8BC7-F82C-4BA2-A990-938DB6ECD4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E8BC7-F82C-4BA2-A990-938DB6ECD4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E8BC7-F82C-4BA2-A990-938DB6ECD4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E8BC7-F82C-4BA2-A990-938DB6ECD4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36E5387-B7DC-4DD4-9C46-249EF017074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36E5387-B7DC-4DD4-9C46-249EF017074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36E5387-B7DC-4DD4-9C46-249EF017074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36E5387-B7DC-4DD4-9C46-249EF017074D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

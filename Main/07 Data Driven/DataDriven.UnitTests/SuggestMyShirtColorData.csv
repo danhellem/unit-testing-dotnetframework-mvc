@@ -1,0 +1,8 @@
+Input1,ExpectedResult
+red,pink
+blue,green
+green,blue
+pink,yellow
+black,white
+white,error
+mango,black
